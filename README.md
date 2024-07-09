@@ -1,4 +1,4 @@
-# Campfire - a social media platform
+# microservice
 
 This is a MERN project of creating a unique social media app. WIP
 
@@ -10,13 +10,6 @@ The following are the features that will be implemented in this project
 1. login with google (oath with google)
 2. login with username or email
 3. logout 
-
-### home page (leads to every other page)-
-
-1. feeds of people followed 
-2. like function
-3. comment function
-4. show who posted with link to their profile
 
 ### find people/explore -
 
@@ -31,14 +24,4 @@ The following are the features that will be implemented in this project
 3. following/follower list
 4. unique name tag
 
-### post a blog page- 
 
-1. notepad for user to type in
-2. using emoji
-
-### chats - 
-
-1. private chat room
-2. voice calling 
-3. group chat room
-4. conference calling
